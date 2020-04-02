@@ -13,9 +13,7 @@ in your Initialize
  
 add:
     xbox::Hvx::InitializeHvPeekPoke();
-    
     xbox::Hvx::InitializeHvProc();
-    
     xbox::Cleaning::Go_Clean_HV(FALSE);
     
  
