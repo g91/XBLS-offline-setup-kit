@@ -8,7 +8,6 @@ this is a kit to add it to any source that you currently have however are offlin
 
 
 join us on Discord: https://discord.gg/ZysePxQ
- 
 in your Initialize
  
 add:
