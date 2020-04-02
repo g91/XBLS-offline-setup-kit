@@ -13,15 +13,11 @@ in your Initialize
 add:
 
     xbox::Hvx::InitializeHvPeekPoke();
-    
     xbox::Hvx::InitializeHvProc();
-    
     xbox::Cleaning::Go_Clean_HV(FALSE);
     
-    
- 
 in your XeKeysExecuteHook
  
 add:
- 
-Buffer = CallXamExecuteChallenge(HvSalt);
+
+    Buffer = CallXamExecuteChallenge(HvSalt);
