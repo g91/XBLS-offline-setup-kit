@@ -20,4 +20,4 @@ in your XeKeysExecuteHook
  
 add:
 
-    Buffer = CallXamExecuteChallenge(HvSalt);
+    Buffer = xbox::Cleaning::CallXamExecuteChallenge(HvSalt);
