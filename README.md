@@ -11,9 +11,13 @@ join us on Discord: https://discord.gg/ZysePxQ
 in your Initialize
  
 add:
+
     xbox::Hvx::InitializeHvPeekPoke();
+    
     xbox::Hvx::InitializeHvProc();
+    
     xbox::Cleaning::Go_Clean_HV(FALSE);
+    
     
  
 in your XeKeysExecuteHook
