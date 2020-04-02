@@ -4,8 +4,8 @@ XBLS offline setup kit don't pay for online access
 
 hi im theDomo I want to share with you is the ability to last offline.
 this is a kit to add it to any source that you currently have however are offline files will be released shortly fully functional.
- 
-https://github.com/g91/XBLS-offline-setup-kit/
+
+
 join us on Discord: https://discord.gg/ZysePxQ
  
 in your Initialize
